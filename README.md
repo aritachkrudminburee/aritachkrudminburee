@@ -1,6 +1,9 @@
 # ❤️ About Me: 
-👏 Hello Everyone 👏 <br>🧑🏽‍💻 " Name " : " Aritach Krudminburee " <br>😜 " Nick Name " : " Mark "<br>🥳 " BIRTHDAY  " : " 20-06-2001 "<br>😌 " NATIONALITY  " : " THAI "<br>🥰 " Hobby " : " Playing board game" || " Sleeping in bed "<br>🏠 " Home " : " Samut Sakhon Thailand "<br><br>👉 EDUCATION 👈<br>🎓 I'm studying at School of Information Technology in King Mongkut’s University of Technology Thonburi  <br>🧑‍🎓 " University " : " King Mongkut’s University of Technology Thonburi(KMUTT) "<br><br>👉 Coding Language 👈<br>🧑🏽‍💻 Beginner level : JAVA ,  JAVASCRIPT , CSS , R<br>🧑🏽‍💻 Medium level : SQL , Python , HTML <br><br>👉 Other 👈<br>🔭 I want to work about Database or Business <br>
+👏 Hello Everyone 👏 <br>🧑🏽‍💻 " Name " : " Aritach Krudminburee " <br>😜 " Nick Name " : " Mark "<br>🥳 " BIRTHDAY  " : " 20-06-2001 "<br>😌 " NATIONALITY  " : " THAI "<br>🥰 " Hobby " : " Playing board game" || " Sleeping in bed "<br>🏠 " Home " : " Samut Sakhon Thailand "<br>
+🔭 I want to work about Database or Business <br>
 ☎️ : 096-701-1186
+<br>
+<br>👉 EDUCATION 👈<br>🎓 I'm studying at School of Information Technology in King Mongkut’s University of Technology Thonburi  <br>🧑‍🎓 " University " : " King Mongkut’s University of Technology Thonburi(KMUTT) "<br><br>👉 Coding Language 👈<br>🧑🏽‍💻 Beginner level : JAVA ,  JAVASCRIPT , CSS , R<br>🧑🏽‍💻 Medium level : SQL , Python , HTML <br><br>
 <br>
 
 
