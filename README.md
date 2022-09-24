@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello!!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hello!!&fontSize=50)
 
 ## ❤️ About Me : 
 🧑🏽‍💻 " Name " : " Aritach Krudminburee " <br>😜 " Nickname " : " Mark "<br>🥳 " BIRTHDAY  " : " 20-06-2001 "<br>😌 " NATIONALITY  " : " THAI "<br>🥰 " Hobby " : " Playing board game" || " Sleeping in bed "<br>🏠 " Home " : " Samut Sakhon Thailand "
@@ -8,7 +8,6 @@
 <br>
 ## 🧡 EDUCATION :
 🎓 I'm studying at School of Information Technology in King Mongkut’s University of Technology Thonburi  <br>🧑‍🎓 " University " : " King Mongkut’s University of Technology Thonburi(KMUTT) "
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer) 
 ## 💛 Coding Language : 
 🧑🏽‍💻 Beginner level : JAVA ,  JAVASCRIPT , CSS , R<br>🧑🏽‍💻 Medium level : SQL , Python , HTML 
 <br>
@@ -24,3 +23,4 @@
 ## 💚 Contact :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/markkArit) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mark_aritach) 
 <br>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer) 
