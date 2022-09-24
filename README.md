@@ -9,7 +9,7 @@
 <br>
 ## 🧡 EDUCATION :
 🎓 I'm studying at School of Information Technology in King Mongkut’s University of Technology Thonburi  <br>🧑‍🎓 " University " : " King Mongkut’s University of Technology Thonburi(KMUTT) "
-<br> 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer) 
 ## 💛 Coding Language : 
 🧑🏽‍💻 Beginner level : JAVA ,  JAVASCRIPT , CSS , R<br>🧑🏽‍💻 Medium level : SQL , Python , HTML 
 <br>
