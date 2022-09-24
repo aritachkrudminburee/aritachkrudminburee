@@ -1,6 +1,6 @@
 
 # 👏 Hello Everyone 👏
-![git_1](https://tenor.com/view/hello-cute-cat-hi-greetings-gif-16242995)
+![git_1](https://tenor.com/bgjHX.gif)
 
 
 ## ❤️ About Me: 
