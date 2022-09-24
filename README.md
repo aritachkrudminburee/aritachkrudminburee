@@ -25,10 +25,7 @@
 ## 💚 Contact :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/markkArit) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mark_aritach) 
 <br>
----
-[![](https://visitcount.itsvg.in/api?id=affsf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer) 
 
 
