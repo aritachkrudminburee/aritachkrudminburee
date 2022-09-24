@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&fontSize=50)
 # 😚 Hello !! Everyone 😚
 ## ❤️ About Me : 
-🧑🏽‍💻 " Name " : " Aritach Krudminburee " <br>😜 " Nickname " : " Mark "<br>🥳 " BIRTHDAY  " : " 20-06-2001 "<br>😌 " NATIONALITY  " : " THAI "<br>🥰 " Hobby " : " Playing board game" || " Sleeping in bed "<br>🏠 " Home " : " Samut Sakhon Thailand "
+🧑🏽‍💻 " Name " : " Aritach Krudminburee " <br>😜 " Nickname " : " Mark "<br>🥳 " Birtday " : " 20-06-2001 "<br>😌 " Nationality " : " Thai "<br>🥰 " Hobby " : " Playing board game" || " Sleeping in bed "<br>🏠 " Home " : " Samut Sakhon Thailand "
 <br>
 📌 " Goal " : " I want to work about Database or Business " 
 <br>
