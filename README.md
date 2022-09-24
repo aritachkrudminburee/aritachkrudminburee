@@ -7,7 +7,7 @@
 📌 " Goal " : " I want to work about Database or Business " 
 <br>
 ## 🧡 EDUCATION :
-🎓 " Studying " : School of Information Technology in King Mongkut’s University of Technology Thonburi  <br>🧑‍🎓 " University " : " King Mongkut’s University of Technology Thonburi(KMUTT) "
+🎓 " Studying " : School of Information Technology <br>🧑‍🎓 " University " : " King Mongkut’s University of Technology Thonburi (KMUTT) "
 
 
 ## 💛 Coding Language : 
